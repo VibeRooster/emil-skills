@@ -56,3 +56,12 @@ This is your shortcut to great interfaces. A shortcut to stand out in a sea of s
 - **[mobile-native](./skills/mobile-native/SKILL.md)** — Make your web app feel native on a phone: sticky hover states, tap highlight flashes, the 100vh bug, inputs that zoom the page, laggy taps, safe areas, and the rest of the small fixes that separate a website from an app.
 - **[break-ui](./skills/break-ui/SKILL.md)** — Try to break the UI you built with worst-case data: long names, unusual emails, one-letter names, huge counts, empty lists, long labels.
 - **[ask-sonner](./skills/ask-sonner/SKILL.md)** — Your guide to working with [Sonner](https://sonner.emilkowal.ski), my toast library. Contains setup, styling, recipes, and fixes for the most common issues.
+
+## Before/after example
+
+- Before: https://skill-fixture-before.theroost.dev
+- After: https://emil-design-eng-after.theroost.dev
+
+The same plain weekly ops page (summary stats, filters, an urgent accounts table, a pending list) rebuilt with `emil-design-eng`: custom ease-out curves, press feedback on buttons, a clip-path segmented control, hold-to-remove, delayed tooltips, interruptible toasts, and reduced-motion fallbacks.
+
+Illustrative, community-contributed example; not an official demo or benchmark.
